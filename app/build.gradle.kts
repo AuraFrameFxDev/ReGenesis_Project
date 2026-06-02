@@ -363,9 +363,9 @@ dependencies {
              force("com.google.dagger:hilt-android:2.59.2")
              force("com.google.dagger:hilt-android-compiler:2.59.2")
              // Lock espresso to version Compose ui-test:1.10.5 requires
-             force("androidx.test.espresso:espresso-core:3.5.0")
-             force("androidx.test.espresso:espresso-contrib:3.5.0")
-             force("androidx.test.espresso:espresso-intents:3.5.0")
+             force("androidx.test.espresso:espresso-core:3.7.0")
+             force("androidx.test.espresso:espresso-contrib:3.7.0")
+             force("androidx.test.espresso:espresso-intents:3.7.0")
          }
     }
 
